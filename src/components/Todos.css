@@ -1,0 +1,16 @@
+.all{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.icons{
+    margin-top: 28px;
+}
+
+
+.input{
+    width: 25px;
+    height: 30px;
+   
+}
